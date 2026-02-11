@@ -1,0 +1,3 @@
+[submodule "modules/obisidan-pub"]
+	path = modules/obisidan-pub
+	url = https://github.com/professoroakz/obisidan-pub.git
